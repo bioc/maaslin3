@@ -13,10 +13,11 @@ cross-sectional and longitudinal studies.
 
 If you use the MaAsLin 3 software, please cite our manuscript:
 
-> William A. Nickols, Jacob T. Nearing, Kelsey N. Thompson, Jiaxian
-Shen, Curtis Huttenhower
-MaAsLin 3: Refining and extending generalized multivariate linear models
-for meta-omic association discovery. (In progress).
+> William A. Nickols, Thomas Kuntz, Jiaxian Shen, Sagun Maharjan, 
+Himel Mallick, Eric A. Franzosa, Kelsey N. Thompson, Jacob T. Nearing, 
+Curtis Huttenhower. MaAsLin 3: Refining and extending generalized 
+multivariable linear models for meta-omic association discovery. 
+bioRxiv 2024.12.13.628459; doi: https://doi.org/10.1101/2024.12.13.628459
 
 ### Support ###
 Check out the [MaAsLin 3
